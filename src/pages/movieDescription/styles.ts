@@ -32,7 +32,7 @@ export const MovieContainer = styled.div`
     ${media.lessThan("small")`
         width: 60%;    
     `}${media.lessThan("medium")`
-        width: 60%;
+        width: 95%;
     `}
 `;
 
@@ -166,12 +166,12 @@ export const MoviePoster = styled.img`
     width: 20vw;
 
     ${media.lessThan('small')`
-    width: 38%;
-    height: 38%;
+    width: 40%;
+    height: 50%;
     `}
     ${media.lessThan('medium')`
-    width: 26%;
-    height: 26%;
+    width: 40%;
+    height: 50%;
  `}
 `;
 
@@ -181,6 +181,11 @@ export const Trailer = styled.div`
       margin-bottom: 2rem;
       padding-bottom: 56.25%; /* 16:9 */
       width: 60%;
+
+      ${media.lessThan('medium')`
+      width: 95%;
+ `}
+    
       
 iframe {
     position: absolute;

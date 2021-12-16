@@ -31,6 +31,7 @@ export const MovieContent = styled.div`
     background: #ebebeb;
     margin-bottom: 1.25rem;
     width: 60vw;
+    margin: 1rem;
   
     ${media.lessThan("medium")`
     width: 25%;
