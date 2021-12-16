@@ -62,7 +62,6 @@ const Home = () => {
         <>
             <Container>
                 <Header />
-                
                 <SearchInput 
                     placeholder="Busque um filme por nome ou gênero..." 
                     onChange={handleInputChange}
@@ -82,11 +81,12 @@ const Home = () => {
                                 </Title>
 
                                 <Score>{(movie.vote_average) * 10}%</Score>
-
-                                <DateRelease>{new Intl.DateTimeFormat('pt-BR').format(
+                                {/* <DateRelease>{new Intl.DateTimeFormat('pt-BR').format(
                                 new Date(movie.release_date))}
-                                </DateRelease>
-
+                                </DateRelease>  */}
+                                 <DateRelease>
+                                {movie.release_date}
+                                </DateRelease> 
                                 <Sinopse>{movie.overview}</Sinopse>
 
                                 <GenreContainer>

@@ -28,6 +28,6 @@ interface Imovie {
   title: string;
   vote_average: number;
   overview: string;
-  release_date: number;    
+  release_date: number;   
 }
 
