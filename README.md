@@ -1,4 +1,4 @@
-<h1 align=center># Desafio Frontend Cubos</h1>
+<h1 align=center># Movies Search</h1>
 
 <img src="movie.gif">
 <img src="movie2.gif">
