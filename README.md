@@ -6,8 +6,8 @@
 ---
 
 ## 👨🏻‍💻 Sobre o Projeto
-
-Um web app responsivo que consuma a API do The Movie DB e permita buscar e ver detalhes de filmes de seu catálogo.
+Um projeto pessoal que colocasse meus conhecimentos em prática. Entao crie o Movies-Search, um web app 
+responsivo que consume a API do The Movie DB e permite buscar e ver detalhes de filmes de seu catálogo.
 
 ---
 
