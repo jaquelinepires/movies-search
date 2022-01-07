@@ -1,7 +1,7 @@
 <h1 align=center># Movies Search</h1>
 
-<img src="public/movie.gif">
-<img src="public/movie2.gif">
+<img src="public//assets/movie.gif">
+<img src="public/assets/movie2.gif">
 
 ---
 
