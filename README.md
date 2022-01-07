@@ -1,12 +1,13 @@
 <h1 align=center># Movies Search</h1>
 
-<img src="movie.gif">
-<img src="movie2.gif">
+<img src="public/movie.gif">
+<img src="public/movie2.gif">
 
 ---
 
 ## 👨🏻‍💻 Sobre o Projeto
-Um projeto pessoal que colocasse meus conhecimentos em prática. Entao crie o Movies-Search, um web app 
+
+Um projeto pessoal que colocasse meus conhecimentos em prática. Entao crie o Movies-Search, um web app
 responsivo que consume a API do The Movie DB e permite buscar e ver detalhes de filmes de seu catálogo.
 
 ---
@@ -24,13 +25,13 @@ responsivo que consume a API do The Movie DB e permite buscar e ver detalhes de 
 ## 💻 Instalação e uso
 
 ```
-$ git clone https://github.com/jaquelinepires/desafio-tecnico-web.git
+$ git clone https://github.com/jaquelinepires/movies-search.git
 ```
 
-3. Vá para a pasta desafio-tecnico-web:
+3. Vá para a pasta movies-search:
 
 ```
-$ cd desafio-tecnico-web
+$ cd movies-search
 ```
 
 4. Instale as dependêcias:
